@@ -118,9 +118,7 @@ header img{
     background-color: #353935;
     
 }
-/* =================== MEDIA QUERIES =================== */
 
-/* For tablets and small desktops (between 768px and 1024px) */
 @media (max-width: 1024px) {
     .menu {
         flex-direction: column;
@@ -170,7 +168,6 @@ header img{
 }
 
 
-/* For mobile devices (767px and below) */
 @media (max-width: 767px) {
     h1 {
         font-size: 1.8em;
